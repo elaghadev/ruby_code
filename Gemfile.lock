@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cgi (0.4.1)
+    erb (4.0.4)
+      cgi (>= 0.3.3)
+    rack (3.1.8)
+    rack-reloader (0.5.0)
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  erb
+  rack
+  rack-reloader
+
+BUNDLED WITH
+   2.5.20
